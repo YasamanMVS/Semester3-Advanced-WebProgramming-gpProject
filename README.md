@@ -25,10 +25,10 @@ The Learning Path Creator is a web-based application designed to facilitate user
 ## Installation and Setup:
 1. **Clone the repository**: Clone the project files from the repository to your local machine or server.
 2. **Database Setup**:
- - Create a database named learningpath.
- - Import the provided SQL file to set up the necessary tables.
+   - Create a database named learningpath.
+   - Import the provided SQL file to set up the necessary tables.
 3. **Configure `db_connect.php`**:
- - Set your database connection details (`servername`, `username`, `password`, and `dbname`) according to your server configuration.
+   - Set your database connection details (`servername`, `username`, `password`, and `dbname`) according to your server configuration.
 4. **Run the application**: Host the files on a PHP-enabled server and access the `landing.php` through your web browser.
 
 ## Usage:
